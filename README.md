@@ -2,6 +2,8 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=plastic)](https://opensource.org/licenses/Apache-2.0)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.arucard21.simplyrestful/simplyrestful-jetty/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/com.github.arucard21.simplyrestful/simplyrestful-jetty)
 
+**DEPRECATED: This has been renamed to SimplyRESTful-cxf and moved to [the main SimplyRESTful repository](https://github.com/arucard21/SimplyRESTful/tree/master/SimplyRESTful-cxf)**
+
 A quick way to deploy your SimplyRESTful API on Jetty
 
 Provides the configuration required to deploy a SimplyRESTful API on a Jetty server with Apache CXF. This should provide a quick and easy way to get your API working, but it isn't likely to be suited for production environments. If you wish to use Jetty in your production environment, you can copy the code from this library and customize it as needed. 
